@@ -1,6 +1,6 @@
 class Dog
-  def Dog name=
+  def name=
     Dog.new
   end
 end
-Dog name= lassie
+name= lassie
