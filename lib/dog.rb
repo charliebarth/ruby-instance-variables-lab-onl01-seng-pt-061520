@@ -3,3 +3,4 @@ class Dog
     Dog.new
   end
   Dog name= lassie
+end
