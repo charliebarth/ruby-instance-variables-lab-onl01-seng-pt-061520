@@ -1,6 +1,6 @@
 class Dog
-  def name=
-    Dog.new
+  def name=(dog_name)
+    
   end
 end
 name= lassie
